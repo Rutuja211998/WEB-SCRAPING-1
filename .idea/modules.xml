@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Fundoo_Notes/.idea/Fundoo_Notes.iml" filepath="$PROJECT_DIR$/../Fundoo_Notes/.idea/Fundoo_Notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scraping_web/.idea/Scraping_web.iml" filepath="$PROJECT_DIR$/../Scraping_web/.idea/Scraping_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Weather/.idea/Weather.iml" filepath="$PROJECT_DIR$/../Weather/.idea/Weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Web_Scraping.iml" filepath="$PROJECT_DIR$/.idea/Web_Scraping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scrapy_project/.idea/aaaaa.iml" filepath="$PROJECT_DIR$/../Scrapy_project/.idea/aaaaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../headers/.idea/headers.iml" filepath="$PROJECT_DIR$/../headers/.idea/headers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wikipedia/.idea/wikipedia.iml" filepath="$PROJECT_DIR$/../wikipedia/.idea/wikipedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wikipedia_crwal/.idea/wikipedia_crwal.iml" filepath="$PROJECT_DIR$/../wikipedia_crwal/.idea/wikipedia_crwal.iml" />
+    </modules>
+  </component>
+</project>
